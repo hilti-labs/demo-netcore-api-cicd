@@ -24,7 +24,8 @@ Parameters:
 
   GitHubUser:
     Type: String
-    Description: Your username on GitHub.
+    Default: hilti-labs
+    Description: Username on GitHub.
 
   GitHubRepo:
     Type: String
